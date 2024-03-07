@@ -8,7 +8,7 @@ public class AsphaltRoads : Mod {
     public override string Name => "Asphalt Roads";
     public override string ID => nameof(AsphaltRoads);
     public override string Version => "1.0";
-    public override string Author => "mldkyt";
+    public override string Author => "アカツキ";
 
     private SettingsCheckBox _dirtRoads, _dirtHouseRoads, _dirtGrass;
     private Material _asphaltMaterial, _pavementMaterial, _pavement2Material;
